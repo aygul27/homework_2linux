@@ -1,0 +1,31 @@
+   0 mkdir /home/user
+   1 mkdir /home/user/start
+   2 touch /home/user/start/1txt
+   3 ls
+   4 tree
+   5 tree /home
+   6 echo "Start">> /home/user/start/1txt
+   7 ls
+   8 cat /home/1txt
+   9 cat /1txt
+  10 cat /home/user/start/1txt
+  11 cat date.txt
+  12 date
+  13 cat date.txt
+  14 date >> 1txt
+  15 cat 1txt
+  16 cat /home/user/start/1txt
+  17 date >> /home/user/start/1txt
+  18 cat /home/user/start/1txt
+  19 mkdir /opt/task
+  20 touch /opt/task/start.txt
+  21 cp /home/user/start/1txt /opt/task/start.txt
+  22 cat /opt/task/start.txt
+  23 cat /
+  24 cat /etc/group
+  25 cat /etc/group | tail -4
+  26 cat /etc/group | tail -4 >> /opt/task/start.txt
+  27 cat /opt/task/start.txt
+  28 > file.txt
+  29 history
+  30 history > history.txt
